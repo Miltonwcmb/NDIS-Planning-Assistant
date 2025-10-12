@@ -1,7 +1,7 @@
-# NDIS Pre-Planning Assistant  
+# NDIS Planning Assistant  
 A Retrieval-Augmented Generation (RAG) application that processes and analyzes NDIS-related documents using Large Language Models (LLMs). It integrates OpenAI embeddings, Azure AI Indexing, and GPT-4o-mini for intelligent retrieval and response generation, presented through a Flask web application.
 
---
+---
 
 ## Application Overview
 
