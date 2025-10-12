@@ -1,0 +1,28 @@
+# Core Framework 
+flask
+markdown
+python-dotenv
+
+# OpenAI + Agents
+openai
+openai-agents   
+
+# Azure SDKs 
+azure-core
+azure-identity
+azure-search-documents
+azure-storage-blob
+azure-ai-documentintelligence
+
+# Data & Processing 
+pandas
+numpy
+openpyxl
+PyPDF2
+python-docx
+gdown
+
+# Utilities 
+requests
+tqdm
+
